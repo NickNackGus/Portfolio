@@ -16,9 +16,7 @@ Technical aspects:
 - Inter-server communication via RabbitMQ
 - Chat messages are transmitted as JSON for easy logging and external chat integration
 
-Initial pull request
-
-https://github.com/TeamMonumenta/monumenta-network-chat/pull/1
+https://github.com/TeamMonumenta/monumenta-network-chat/
 
 ### Automation
 
